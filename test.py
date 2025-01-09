@@ -1,8 +1,8 @@
 from pyrogram import Client
 
 async def main():
-    api_id = "28073859"
-    api_hash = "7ba18e1a9922df6797a5610c59b2381a"
+    api_id = ""
+    api_hash = ""
     
     app = Client("my_account", api_id=api_id, api_hash=api_hash)
 
